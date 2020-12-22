@@ -1,1 +1,1 @@
-web: gunicorn Craigelist.wsgi
+web: gunicorn todo.wsgi
